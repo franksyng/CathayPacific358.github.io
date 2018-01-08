@@ -25,12 +25,14 @@ body {
 /*logo series*/
 .toplogo {
   color:white;
-  font-size:130%;
+  font-size:150%;
+  padding-top:10px;
 }
 
 .bottomlogo {
   color:black;
-  font-size:130%;
+  font-size:150%;
+  padding-top:10px;
 }
 
 /* Typography */
