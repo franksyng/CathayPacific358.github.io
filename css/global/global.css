@@ -7215,6 +7215,10 @@
   color: #13b1cd !important;
 }
 
+.g-color--pink {
+  color:#fd73c8 !important;
+}
+
 .g-color--blueviolet {
   color: #9877ea !important;
 }
@@ -7285,7 +7289,7 @@
 }
 
 .g-color--white-opacity[href]:hover {
-  color: #13b1cd !important;
+  color: #fd73c8 !important;
 }
 
 /* Background Colors */
