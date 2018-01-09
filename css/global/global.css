@@ -7267,6 +7267,10 @@
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
+.g-color--dark-opacity {
+  color: rgba(68, 68, 68, 0.8) !important;
+}
+
 .g-color--white-opacity-light {
   color: rgba(255, 255, 255, 0.5) !important;
 }
